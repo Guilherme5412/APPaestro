@@ -1,6 +1,6 @@
 # RegistroFrequencia – Aplicação de Controle de Presença Escolar
 
-Clique aqui para acessar a aplicação Web[https://appaestro.onrender.com/]
+[🔗 Clique aqui para acessar a aplicação Web](https://appaestro.onrender.com/)
 
 ## Descrição
 O **RegistroFrequencia** é uma aplicação web desenvolvida para registrar a presença dos alunos nas escolas municipais. Ela é utilizada por equipes de fiscalização, permitindo que a presença dos estudantes seja registrada de forma simples e organizada.
